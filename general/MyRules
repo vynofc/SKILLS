@@ -1,0 +1,4 @@
+erstelle jetzt noch einmal github workflows: bei jedem commit einmal build und beim Release: bauen -> zip -> an release
+anhängen (+ wenn sgeht denn installer zu der zip hinzufügen). Dazu mache mir bitte noch eine build.sh/.bat wo ich die
+auswahl immer habe was ich machen will (minimun: 1. install requirements 2. clean (damit ist gemeint z.b. bin, obj,
+releasye, etc.) und 3. Buld app
