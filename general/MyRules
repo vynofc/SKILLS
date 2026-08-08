@@ -1,7 +1,7 @@
 # MyRules for Development
 
 ## Rules for this markedown Document:
--- START RULES FOR MD --#
+-- START RULES FOR MD --
 1. The sections from the # {Headername} alsways start with "-- START {header name} --" and end with "-- END {header name} --" so you know what is what
 2. when searching for the header name dont be letter sensitive
 -- END RULES FOR MD --
