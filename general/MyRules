@@ -6,15 +6,14 @@
 2. when searching for the header name dont be letter sensitive
 -- END RULES FOR MD --
 
-## Commit Mesage
--- START COMMIT MESSAGE --
-Always give me a commit mesage at the end of you Answer
--- END COMMIT MESSAGE --
+## install-requirements
+-- START install-requirements --
+Mache jeweils eine ir.bat und eine ir.sh die beide einfach die requirements fürs projekt installieren und überprüfen
+-- END install-requirements --
 
 ## Workflow 
 -- START WORKFLOW --
 erstelle jetzt noch einmal github workflows: bei jedem commit einmal build und beim Release: bauen -> zip -> an release
-anhängen (+ wenn sgeht denn installer zu der zip hinzufügen). Dazu mache mir bitte noch eine build.sh/.bat wo ich die
-auswahl immer habe was ich machen will (minimun: 1. install requirements 2. clean (damit ist gemeint z.b. bin, obj,
-releasye, etc.) und 3. Buld app
+anhängen (+ wenn sgeht denn installer zu der zip hinzufügen). 
+Dazu nutze die ISSUE-TEMPLATES aus https://github.com/vynofc/SKILLS/tree/main/templates/ISSUE/
 -- END WORKFLOW --
